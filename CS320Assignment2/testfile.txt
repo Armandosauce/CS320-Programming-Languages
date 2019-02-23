@@ -1,0 +1,5 @@
+push 5
+pop 6
+save
+get 5
+pop pop
